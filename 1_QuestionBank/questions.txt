@@ -1,0 +1,235 @@
+1.  Binary to decimal 
+
+2.  Decimal to binary
+
+3.  Reverse Integers
+
+4.  bitwiseCompliment --> (1-> 0) and (0 -> 1)
+
+5.  Is an integer is on power of two
+
+6.  Returns difference between the product and the sum of its digit
+
+7.  Returns numeber of set bit an integer has (SetBitCount)
+
+8.  linear search
+
+9.  Swap alternate numbers in an array
+
+10. There are 2m+1 elements in an array.m numbers are twice and only 1 number is single.Find that single number.
+
+11. Given an array of integers arr, return true if the number of occurrences of each value in the array is unique, or false otherwise
+
+12. You are givern an array 'ARR' of size N containing each number between (1 and N-1) at least once. There is a single integer value that is present in the array twice. Your task is to find that duplicate integer value present in an array.
+
+13. Given an integer array nums of length n where all the integers of nums are in the range [1,n] and each integer appears once or twice, returns an array of all the integers that appears twice.You must write an algo that runs in O(n) time and uses only constant extra space. (HW problem)
+
+14. There are two arrays of size N and M. Both of these are sorted in non-decreasing order. You have to find the intersection of these two arrays
+
+15. Find the pairs of two numbers whose sum is equal to the given number from an array
+
+16. Find the triplet from an array whose sum is K.Also find the optimised solution(Not done yet)
+
+17. Sort 0,1
+
+18. Sort 0,1,2.(HW problem)
+
+19. Reverse an array
+
+20. Binary Search
+
+21. Find the First and Last most position of an element in a sorted array
+
+22. Find total number of occurrences of an element in an array
+
+23. Peak Index in a Mountain array
+
+24. Find index of Pivot element in a sorted and rotated array
+
+25. Search element in a sorted and rotated array
+
+26. Find a squreRoot of a number using binary search
+
+27. Book Allocation Problem. There is an array of books in which elements represents book pages. There are M   students and N books. Conditions:-
+(1) Each student gets at least one book.
+(2) Each book should be allocated to a student
+(3) Book allocations should be in contigous manner
+You have to allocate the book to M students such that the maximum number of pages assigned to a student is minimum
+28. Painters Partition Problem. there are m numbers of painters ans u have to paint the boards such that it will took minimum time 
+(1) Each boards be painted
+(2) contigous boards shoult b allocated
+
+29. Agressive Cows
+arrys of stalls is given u have to place the cows such that the minimum distance between stalls must be maximum
+
+30. Selection sort
+
+31. Bubble Sort
+
+32. Insertion Sort
+
+33. Reverse an array after position M
+
+34. Merge two sorted Arrays and the resultent array must be sorted
+
+35. Merge two arrays (different kind of) (HW problem)(Not done yet)
+
+36. Move Zeros to right and shift other elements to the lest in the same order
+
+37. Rotate an array by k
+
+38. Check if array is sorted and rotated
+
+39. Add two arrays
+
+40. Get length of a string
+
+41. Reverse a string
+
+42. Given string is palindrome or not
+
+43. Reverse words in a string (HW problem)
+
+44. Return a character whose count is maximum in a string
+
+45. Remove the space from the string and replace it by '@40' (HW without using extra space)(not done without using extra spaces)
+
+46. Remove all occurrences of a substring
+
+47. Permutation in a string
+    Given 2 string s1 and s2 , return true if s2 contanins a permutation of s1, or false otherwise.
+    in other words , return true if one of s1's permutation is the substring of s2
+
+48. Remove adjcents duplicates characters from an array(HW problem)(Not done yet)
+
+49. String compression 
+For each group of consecutive repeating characters:-
+(1) If the group's length is 1 , append the character to s
+(2) Otherwise append the character followed by its group length
+The compressed string s should not be returned seperately but instead be stored in the input array.
+After u dont modifying the input array, return the length of the array.
+
+50. Search an element in a 2D array
+ 
+51. Row or Column wise sum of 2D array
+
+52. Returns the index of row having the maxSum and also show the sum
+
+53. Print like wave
+Given array of size(n*m), print the array in a sine wave.
+Print the first column top to bottom , next column bottom to top and so on
+
+54. Print like spiral
+
+55. Rotate matrix by 90degree(HW problem)(Not done yet)
+
+56. Binary search in a matrix
+
+57. Search in a matrix 2
+(1) Integers in each row are sorted in ascending from left to right
+(2) Integers in each column are sorted in ascending from top to bottom
+
+    Return the number of prime numbers that are strictly less than n using
+    (SieveOfEratosthenis algorithm)
+
+    Segmented sieve algorithm (HW problem)(Not done yet)
+
+58. Thorugh recursion check weather array is sorted or not
+
+59. Through recursion find the sum of the elements from an array
+
+60. Through recursion apply Linear search
+
+61. Through recursion apply Binary search
+
+62. Through recursion find Febonacci number
+
+63. Through recursion
+You have been given a number of stairs. Initially you are at the 0th stair, ans you need to reach the Nth stair. Each time you can either climb one step or two step. You are supposed to return the number of distinct ways in which you can climb from the 0th step to Nth step.
+
+64. say digit
+
+65. Through recursion reverse a string
+
+66. Through recursion check a string is palindrome or not
+
+67. Through recursion find the power of a number
+
+68. Through recursion apply Bubble sort
+
+69. Through recursion apply slection sort(HW problem)(Not done yet)
+
+70. Through recursion apply Insertion sort(HW problem)(Not done yet)
+
+71. Through recursion apply Merge sort
+
+72. Merge sort
+
+73. Through recursion apply Quick Sort
+
+74. Quick sort
+
+75. Phone keyboard problem
+
+76. Given an integer array rums of unique elements, return all possible subsets (the power set).
+The solution set must not contain duplicate subsets. Return the solution in any order.
+
+77. You are given a string 'STR' containing lowercase English letters from a to z inclusive. Your
+task is to find all non-empty possible subsequences of 'STR'.
+A Subsequence of a string is the one which is generated by deleting 0 or more
+letters from the string and keeping the rest of the letters in the same
+order.
+
+78. Permutation of a string
+
+79. Rat in a maze
+
+80. Singly_LinkedList
+Traversal
+InsertAtHead
+InsertAtTail
+InsertAtPosition
+deleteNode
+
+81. Doubly_LinkedList
+Traversal
+InsertAtHead
+InsertAtTail
+InsertAtPosition
+deleteNode
+
+82. Circular LinkedList
+82. Circular LinkedList
+Traversal
+InsertAthead
+InsertAtTail
+InsertAtPosition
+deleteNode
+
+83. Reverse a linked list
+
+84. Middle of Linked List
+
+85. Rever LL in group of 'k'
+
+86. Weather LL is circular or not
+
+87. Detect cycle in a linked list
+
+88. Beggining node of loop in lined list
+
+89. Remove cycle from linked list
+
+90. Remove duplicates from a sorted linked list
+
+91. Remove duplicates from a unsorted Linked List
+
+92. Sort 0,1,2 
+
+93. Merge two sorted linked list
+
+94. Check a linked list is palindrome or not
+
+95. Add two number represented by linked list
+
+96. Clone a linked list with random pointer
